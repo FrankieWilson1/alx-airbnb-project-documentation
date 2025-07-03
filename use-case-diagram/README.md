@@ -4,7 +4,7 @@ This folder contains visual documentation file related to the database schema an
 
 ## Contents:
 
-* **`alx-airbnb-usecase_diagram.drawio.png`**:
+* **`alx-airbnb-usecase_diagram.png`**:
     * This image is the **System Use Case Diagram**.
     * It visualizes the interactions between the main actors (`Guest`, `Host`, `Admin`, `External Payment Gateway`) and the core functionalities of the `Aix-airbnb_system`.
     * Key use cases captured include:
@@ -26,3 +26,6 @@ These visual aids are intended to:
 * Illustrate the key interactions between users and the system.
 * Serve as a reference for developers working on different parts of the system.
 * Aid in discussions and future expansions of the project.
+
+---
+[Back to Main Project README](../README.md)

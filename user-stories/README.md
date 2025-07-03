@@ -23,8 +23,10 @@ The user stories for this project are categorized into the following main functi
 
 For the complete and detailed list of all user stories, including specific actions and benefits for each feature, please refer to the dedicated document:
 
-[**View All User Stories in user-story.md**](user-story.md)
+[**View All User Stories in user-story.md**](user-stories.md)
 
 ---
 
 This `README.md` serves as a quick reference, guiding anyone interested in understanding the core functionalities of the ALX Airbnb Clone project.
+
+[Back to Main Project README](../README.md)
