@@ -1,4 +1,3 @@
-```markdown
 # Backend Feature Requirements - ALX-Airbnb Clone
 
 This document outlines the essential technical and non-functional requirements for the backend development of the ALX-Airbnb clone project. These requirements guide the architecture, implementation, and overall quality assurance of the system.
@@ -60,4 +59,3 @@ This document outlines the essential technical and non-functional requirements f
 ### 4. Testing
 -   **Unit and Integration Tests**: Implement comprehensive unit and integration tests using frameworks like `pytest` to ensure individual components and their interactions function correctly.
 -   **Automated API Testing**: Develop automated tests for API endpoints to verify functionality, performance, and adherence to specifications.
-```
