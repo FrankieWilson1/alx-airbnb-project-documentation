@@ -9,4 +9,3 @@ This repository serves as a comprehensive documentation hub for the ALX-Airbnb c
 - [Data Flow Diagram (DFD)](/data-flow-diagram/README.md)
 - [User Stories](/user-stories/README.md)
 - [Flowcharts](/flowcharts/README.md)
-# (etc., add any other sections like ERD if you create a folder for it)
